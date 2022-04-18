@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="meinian_pojo-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/meinian_pojo/target/meinian_pojo-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
